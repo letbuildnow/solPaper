@@ -1,0 +1,41 @@
+{
+  "portfolios": {
+    "6485399160": {
+      "balance": 10.0,
+      "positions": {},
+      "history": []
+    },
+    "6111198883": {
+      "balance": 10000,
+      "positions": {},
+      "history": []
+    },
+    "6772494128": {
+      "balance": 9.0,
+      "positions": {
+        "CNR3xGAdTX4ve3CHH56A6urNFkK2ErnJrh7F4wo1pump": {
+          "amount": 27148022.118247557,
+          "avg_price": 3.6835095965530745e-08,
+          "symbol": "hmm"
+        }
+      },
+      "history": [
+        {
+          "type": "BUY",
+          "token": "CNR3xGAdTX4ve3CHH56A6urNFkK2ErnJrh7F4wo1pump",
+          "amount": 27148022.118247557,
+          "price": 3.6835095965530745e-08,
+          "value_sol": 1.0,
+          "dex": "pumpfun",
+          "timestamp": "2025-12-16T00:54:52.749088"
+        }
+      ]
+    }
+  },
+  "watchlists": {},
+  "user_settings": {
+    "6485399160": {
+      "slippage": 1.0
+    }
+  }
+}

@@ -1,7 +1,8 @@
-python-telegram-bot
+python-telegram-bot>=21.9
 python-dotenv
 aiohttp
 SQLAlchemy==2.0.19
 
 aiosqlite
+
 
